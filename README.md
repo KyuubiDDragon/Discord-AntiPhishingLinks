@@ -15,7 +15,7 @@ This Discord bot is designed to enhance server security by automatically detecti
 1. Clone the repository:
    ```bash
    git clone https://github.com/kyuubiddragon/Discord-AntiPhishingLinks.git
-   cd discord-safe-browsing-bot
+   cd Discord-AntiPhishingLinks
    ```
 
 2. Install dependencies:
